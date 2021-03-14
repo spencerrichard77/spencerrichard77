@@ -1,4 +1,4 @@
-- Hi, I’m @spencerrichard77
+- Hi, I’m Spencer Richard
 - I’m currently a UCLA undergraduate student pursuing a both a Statistics B.S. and Applied Mathematics B.S.
 - I am interested in machine learning and all things related to Data Science
 - I am always on looking for new opportunities to grow my data science skills
